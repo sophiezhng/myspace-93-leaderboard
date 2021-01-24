@@ -1,1 +1,1 @@
-Last updated: {{ page.last-modified-date }}
+Last updated: {{ "now" | date: site.date_format }}

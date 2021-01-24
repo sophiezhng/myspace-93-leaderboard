@@ -1,1 +1,1 @@
-## MYSPACE LEADERBOARD
+Last updated: {{ site.time | date: '%B %d, %Y' }}

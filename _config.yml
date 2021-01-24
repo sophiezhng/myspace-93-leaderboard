@@ -1,3 +1,5 @@
 title: MySpace Windows93 Leaderboard
 description: The ones with the most fwiends 🏅
 date_format: "%Y-%m-%d %H:%M"
+
+theme: jekyll-theme-leap-day

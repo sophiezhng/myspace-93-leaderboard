@@ -4,6 +4,8 @@ show_downloads: true
 
 date_format: "%Y-%m-%d %H:%M"
 
+google_analytics: G-KFWSJL22RS
+
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag

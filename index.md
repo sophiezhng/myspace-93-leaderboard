@@ -2,105 +2,105 @@ Last updated: {{ "now" | date: site.date_format }}
 
 Place | Name | Country | # of Fwiends
 | --- | --- | --- | --- |
-\#1 | Matt | Interzone | 20343
-\#2 | koala71783 | United Kingdom | 13277
-\#3 | awkward.violence | Germany | 12526
-\#4 | llilywebskateboarder | United States | 7394
-\#5 | XxEmo_BitchxX | United States | 7364
-\#6 | Jaden Desmond | United States | 5112
-\#7 | Ark63 | France | 3861
-\#8 | deathbystereo | United States | 3645
-\#9 | pockyboy:) | Canada | 3217
-\#10 | Nezu | Interzone | 3208
-\#11 | Hazel Hellucinate | United States | 3205
-\#12 | Jxoredo | United States | 3137
-\#13 | jtracome87 | Brazil | 2945
-\#14 | hehpilled | Cook Islands | 2777
-\#15 | pistolthealien | Interzone | 2598
-\#16 | popbob | Interzone | 2539
-\#17 | bernzrdo | Portugal | 2530
-\#18 | cvrsed | United Kingdom | 2384
-\#19 | cyberheav3n | Antarctica | 2352
+\#1 | Matt | Interzone | 20401
+\#2 | koala71783 | United Kingdom | 13380
+\#3 | awkward.violence | Germany | 12557
+\#4 | llilywebskateboarder | United States | 7409
+\#5 | XxEmo_BitchxX | United States | 7366
+\#6 | Jaden Desmond | United States | 5113
+\#7 | Ark63 | France | 3863
+\#8 | deathbystereo | United States | 3649
+\#9 | pockyboy:) | Canada | 3218
+\#10 | Hazel Hellucinate | United States | 3209
+\#11 | Nezu | Interzone | 3209
+\#12 | Jxoredo | United States | 3152
+\#13 | jtracome87 | Brazil | 2951
+\#14 | hehpilled | Cook Islands | 2780
+\#15 | pistolthealien | Interzone | 2618
+\#16 | popbob | Interzone | 2541
+\#17 | bernzrdo | Portugal | 2533
+\#18 | cvrsed | United Kingdom | 2387
+\#19 | cyberheav3n | Antarctica | 2359
 \#20 | mikurabies | United Kingdom | 2263
-\#21 | xXzombieboylukeXx | United States | 2208
-\#22 | ME is button | United States | 2051
-\#23 | Testacc2 | Interzone | 1918
-\#24 | Shoebox | Ireland | 1915
+\#21 | xXzombieboylukeXx | United States | 2214
+\#22 | ME is button | United States | 2063
+\#23 | Shoebox | Ireland | 1927
+\#24 | Testacc2 | Interzone | 1918
 \#25 | Unknown Fox | United Kingdom | 1879
-\#26 | Joseph Stalin | Russian Federation | 1799
+\#26 | Joseph Stalin | Russian Federation | 1801
 \#27 | basil | United States | 1778
-\#28 | Xxrotting.teethxX | Interzone | 1760
-\#29 | BjörnÁrsælsson | Interzone | 1731
-\#30 | redkyoin | Antarctica | 1666
-\#31 | Connor | Canada | 1640
-\#32 | Morgan Hain Music | Australia | 1595
-\#33 | F A X M A C H I N E | Yugoslavia | 1554
-\#34 | EmilyExecution | United States | 1536
-\#35 | emokittyqueen17 -_- | United States | 1521
+\#28 | Xxrotting.teethxX | Interzone | 1776
+\#29 | BjörnÁrsælsson | Interzone | 1735
+\#30 | redkyoin | Antarctica | 1667
+\#31 | Connor | Canada | 1641
+\#32 | Morgan Hain Music | Australia | 1603
+\#33 | F A X M A C H I N E | Yugoslavia | 1557
+\#34 | EmilyExecution | United States | 1546
+\#35 | emokittyqueen17 -_- | United States | 1524
 \#36 | Windows93 | Interzone | 1519
-\#37 | jaenopy | United States | 1500
-\#38 | lizardboiiiiii | United States | 1454
-\#39 | r0tten.bunni | United States | 1437
-\#40 | Gert-Rude-1 | Finland | 1436
-\#41 | ruzz | Brazil | 1419
-\#42 | whetherhemmy | Interzone | 1405
-\#43 | soulseekerr | Italy | 1378
-\#44 | b100dc0r3 | Interzone | 1351
-\#45 | Tyler | United States | 1324
-\#46 | cyanidesparkles | United States | 1320
-\#47 | Zipper T. Bunny | Interzone | 1316
-\#48 | xXSplitXX | United States | 1297
-\#49 | saint | Saint Lucia | 1248
-\#50 | domimaggots | Philippines | 1245
-\#51 | luvheart | United Kingdom | 1244
-\#52 | taemin | Virgin Islands (U.S.) | 1213
-\#53 | partius | United States | 1208
-\#54 | anyaamphetamine | United States | 1186
-\#55 | Justin Bieber | Canada | 1181
-\#56 | irlzombieboy | Interzone | 1177
-\#57 | YVUG3N | United States | 1161
-\#58 | arlxnx | United States | 1156
-\#59 | ginko | Germany | 1146
-\#60 | lain | Interzone | 1144
-\#61 | Gerard Way | United States | 1119
-\#62 | EG24 | Interzone | 1116
-\#63 | dazai osamu | Interzone | 1113
-\#64 | Legend Ibuki | United States | 1105
-\#65 | kusuo__o | Interzone | 1098
-\#66 | Severin | Indonesia | 1078
-\#67 | Suppalonlychick | United States | 1069
-\#68 | pepsinext2012 | Interzone | 1045
-\#69 | gerberbabie | United States | 1030
-\#70 | Nyaneii | Fiji | 1018
-\#71 | xdzvonx | Poland | 982
-\#72 | Janken Popp | Interzone | 979
-\#73 | yunggook | United States | 973
-\#74 | Nicholas | Antarctica | 970
-\#75 | Vscodrugs | United States | 967
-\#76 | airi | Interzone | 953
-\#77 | Nah Dude | Antarctica | 950
-\#78 | xXxLuis1004xXx | United States | 945
-\#79 | v3xation.fla | United States | 931
-\#80 | yeonjun&lt;3 | Interzone | 902
-\#81 | StrawberryGutz | United States | 896
-\#82 | Tom Nook | Virgin Islands (U.S.) | 879
-\#83 | peachy.milk | United States | 877
-\#84 | Danganronpa.exe | Interzone | 870
-\#85 | Mamimeli | United States | 848
-\#86 | The SkullZ | United Kingdom | 835
-\#87 | tsukishima | Japan | 832
-\#88 | StarsWink | United States | 782
-\#89 | Asswizard7563 | United Kingdom | 779
-\#90 | eijitaro | France | 775
-\#91 | Euniox | Antarctica | 772
-\#92 | luv.chickie | United States | 770
-\#93 | kalicore | Japan | 757
-\#94 | battyemi | United States | 756
-\#95 | ikurai | Mexico | 750
-\#96 | kittyluv | United States | 744
-\#97 | tizianna | United States | 736
-\#98 | Xx_Ethan.StarLust_xX | United States | 727
-\#99 | HOSTYPERK! | United Kingdom | 724
-\#100 | Peach._.Juice | United States | 722
+\#37 | jaenopy | United States | 1514
+\#38 | opossuwu | United States | 1512
+\#39 | lizardboiiiiii | United States | 1458
+\#40 | r0tten.bunni | United States | 1439
+\#41 | Gert-Rude-1 | Finland | 1436
+\#42 | ruzz | Brazil | 1419
+\#43 | whetherhemmy | Interzone | 1405
+\#44 | soulseekerr | Italy | 1379
+\#45 | b100dc0r3 | Interzone | 1352
+\#46 | Tyler | United States | 1330
+\#47 | Zipper T. Bunny | Interzone | 1329
+\#48 | cyanidesparkles | United States | 1322
+\#49 | xXSplitXX | United States | 1303
+\#50 | saint | Saint Lucia | 1280
+\#51 | domimaggots | Philippines | 1244
+\#52 | luvheart | United Kingdom | 1244
+\#53 | taemin | Virgin Islands (U.S.) | 1220
+\#54 | partius | United States | 1208
+\#55 | anyaamphetamine | United States | 1188
+\#56 | Justin Bieber | Canada | 1181
+\#57 | irlzombieboy | Interzone | 1177
+\#58 | arlxnx | United States | 1168
+\#59 | YVUG3N | United States | 1162
+\#60 | poltergeist | Interzone | 1159
+\#61 | ginko | Germany | 1147
+\#62 | lain | Interzone | 1144
+\#63 | Nicholas | Antarctica | 1132
+\#64 | Gerard Way | United States | 1131
+\#65 | EG24 | Interzone | 1116
+\#66 | dazai osamu | Interzone | 1114
+\#67 | Legend Ibuki | United States | 1112
+\#68 | Suppalonlychick | United States | 1103
+\#69 | kusuo__o | Interzone | 1099
+\#70 | Severin | Indonesia | 1079
+\#71 | Dream | United States | 1078
+\#72 | pepsinext2012 | Interzone | 1049
+\#73 | xAFaceInside00 | United States | 1040
+\#74 | gerberbabie | United States | 1030
+\#75 | Nyaneii | Fiji | 1020
+\#76 | xdzvonx | Poland | 982
+\#77 | ghostgirl | United States | 981
+\#78 | Janken Popp | Interzone | 979
+\#79 | yunggook | United States | 974
+\#80 | Vscodrugs | United States | 971
+\#81 | Maya | United States | 970
+\#82 | airi | Interzone | 953
+\#83 | Nah Dude | Antarctica | 952
+\#84 | xXxLuis1004xXx | United States | 948
+\#85 | v3xation.fla | United States | 931
+\#86 | yeonjun&lt;3 | Interzone | 902
+\#87 | StrawberryGutz | United States | 897
+\#88 | Tom Nook | Virgin Islands (U.S.) | 880
+\#89 | peachy.milk | United States | 879
+\#90 | Danganronpa.exe | Interzone | 871
+\#91 | Mamimeli | United States | 862
+\#92 | The SkullZ | United Kingdom | 834
+\#93 | tsukishima | Japan | 832
+\#94 | StarsWink | United States | 784
+\#95 | Asswizard7563 | United Kingdom | 780
+\#96 | eijitaro | France | 775
+\#97 | Euniox | Antarctica | 772
+\#98 | luv.chickie | United States | 771
+\#99 | kalicore | Japan | 765
+\#100 | battyemi | United States | 763
 
 Fork the source code [here](https://gist.github.com/sophiezhng/172d2e0584d348bb375c8207152e6c9f)

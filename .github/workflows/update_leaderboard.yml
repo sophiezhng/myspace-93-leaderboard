@@ -33,5 +33,4 @@ jobs:
     - name: Commit & Push changes
       uses: EndBug/add-and-commit@v7
       with:
-        add: 'index.md'
         branch: 'gh-pages'

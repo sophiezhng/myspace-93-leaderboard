@@ -30,14 +30,9 @@ jobs:
       run: |
         ls -R
 
-    - name: Commit and Push
-      run: |
-        git branch
-        git checkout gh-pages
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git status
-        git add index.md
-        git status
-        git commit -m "Commit new leaderboard"
-        git push
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        add: 'index.md'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: 'gh-pages'

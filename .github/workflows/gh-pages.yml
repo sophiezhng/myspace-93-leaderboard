@@ -26,6 +26,6 @@ jobs:
         python main.py
 
 
-      - name: List files
-        run: |
-          ls -R
+    - name: List files
+      run: |
+        ls -R

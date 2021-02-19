@@ -29,3 +29,15 @@ jobs:
     - name: List files
       run: |
         ls -R
+
+    - name: Commit and Push
+      run: |
+        git branch
+        git checkout gh-pages
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git status
+        git add index.md
+        git status
+        git commit -m "Commit new leaderboard"
+        git push

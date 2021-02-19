@@ -31,8 +31,7 @@ jobs:
         ls -R
 
     - name: Commit & Push changes
-      uses: actions-js/push@master
+      uses: EndBug/add-and-commit@v7
       with:
         add: 'index.md'
-        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: 'gh-pages'

@@ -30,8 +30,15 @@ jobs:
       run: |
         ls -R
 
-    - name: Commit & Push changes
-      uses: actions-js/push@master
+    - name: Commit files
+      run: |
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add index.md
+        git commit -m "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: 'gh-pages'
+        branch: gh-pages

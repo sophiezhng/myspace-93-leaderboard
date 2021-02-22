@@ -18,12 +18,12 @@ jobs:
 
     - name: Install dependencies
       run: |
-        python3 -m pip3 install --upgrade pip3
-        pip3 install -r requirements.txt
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run main.py
       run: |
-        python3 main.py
+        python main.py
 
 
     - name: List files

@@ -31,10 +31,16 @@ jobs:
       run: |
         ls -R
   
-    - name: Commit new index.md
+    - name: Commit files # commit the output folder
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git checkout gh-pages -- index.md
+        git config --local user.email "test@github.com"
+        git config --local user.name "GitHub Action test"
+        git add ./index.md
         git commit -m "Updated: `date +'%Y-%m-%d %H:%M:%S'`"
-        git push --all origin
+        
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        branch: gh-pages #ignore if your branch is master
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
